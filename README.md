@@ -124,7 +124,3 @@ SPI is a full-duplex communication protocol, meaning data can be sent and receiv
 ## Conclusion
 This project demonstrates a robust implementation of an SPI Slave with Single Port RAM, highlighting key digital design principles and efficient use of Verilog HDL. It serves as a solid foundation for further exploration and development in FPGA-based digital systems.
 
-## Contact Me!
-- **Email:** shehabeldeen2004@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/shehabeldeen22)
-- **GitHub:** (https://github.com/shehab-25)
